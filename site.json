@@ -1,0 +1,12 @@
+{
+  "name": "张斌诚",
+  "title": "张斌诚的个人博客",
+  "description": "我会是精英新生代，我努力翻江覆雨倒海",
+  "github": "BincZhang",
+  "url": "https://binczhang.github.io",
+  "posts": [
+    {"slug": "starting-with-an-led", "title": "从点亮第一颗 LED 开始", "category": "成长记录", "date": "2026-11-01", "summary": "从单片机入门到参与竞赛，记录把课堂知识变成手中本领的过程。", "file": "content/starting-with-an-led.md"},
+    {"slug": "hovercraft-project", "title": "把想法变成实物：我的气垫悬浮车项目", "category": "项目实践", "date": "2026-11-01", "summary": "软件设计、无刷电调驱动与系统联调，一次完整项目带来的收获。", "file": "content/hovercraft-project.md"},
+    {"slug": "competition-and-research", "title": "竞赛与科研，如何相互促进", "category": "科研随笔", "date": "2026-11-01", "summary": "从敢于动手尝试，到追问原理与结果的可靠性。", "file": "content/competition-and-research.md"}
+  ]
+}
